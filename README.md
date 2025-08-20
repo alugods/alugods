@@ -12,8 +12,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alugods&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alugods&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alugods&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alugods&theme=tokyonight)
+
 ![](https://komarev.com/ghpvc/?username=alugods&label=Views)
 
 ## Find me
