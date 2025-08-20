@@ -1,6 +1,7 @@
 # Hi there, I'm Hanif 👋
 
 - 🔭 Saat ini: belajar dan ngoprek backend & automation.
+- 🌆 Asal : Indonesia, Yogyakarta
 - 💬 Minat: Python, Node.js, Rust, Docker, blockchain.
 - 📫 Kontak: [Telegram](https://t.me/Hanifjago) • [X](https://x.com/ALUGOD7)
 
