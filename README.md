@@ -13,7 +13,8 @@
 
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alugods&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alugods&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alugods&layout=compact&theme=tokyonight)
+
 
 ![](https://komarev.com/ghpvc/?username=alugods&label=Views)
 
