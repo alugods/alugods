@@ -12,7 +12,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Stats
-![Hanif Fathoni](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alugods&theme=tokyonight)
+![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alugods&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alugods&theme=tokyonight)
 
 
