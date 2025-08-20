@@ -11,8 +11,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alugods&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alugods&layout=compact)
 
 ## Find me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Hanifjago)
