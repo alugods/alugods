@@ -10,13 +10,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Stats
-![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alugods&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alugods&theme=tokyonight)
-
-
-![](https://komarev.com/ghpvc/?username=alugods&label=Views)
-
 ## Find me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Hanifjago)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/ALUGOD7)
+
+![](https://komarev.com/ghpvc/?username=alugods&label=Views)
